@@ -11,6 +11,7 @@ A página inicial apresenta uma tela do jogo GTA 5, proporcionando aos visitante
 
 **Como Usar**
 Clone este repositório em sua máquina local.
+  https://github.com/seuUsuario/Projeto-GTA-V.git
 Abra o arquivo index.html em seu navegador.
 Explore a loja virtual e navegue pelos produtos disponíveis.
 Adicione produtos ao carrinho e experimente a funcionalidade de compra.
